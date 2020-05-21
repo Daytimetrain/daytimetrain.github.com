@@ -685,21 +685,10 @@ link count number 198；
 In the CCE order 2 with length of set cluster 99；
 In the CCE order 3 with length of set cluster 77；
 
-##### CCE-1
-
-<img src=Image/CCE-1.png style="zoom:100%">
-
-##### CCE-2
-
-<img src=Image/CCE-2.png style="zoom:100%">
-
 ##### CCE-3
 
-<img src=Image/CCE-3.png style="zoom:100%">
 
-##### 三张图放一起
-
-<img src=Image/CCE_123.png style="zoom:100%">
+<img src=CCE_123.png style="zoom:100%">
 
 # Cluster的其他函数
 
